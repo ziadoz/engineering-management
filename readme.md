@@ -1,4 +1,4 @@
-# Grokking Algorithms
+# Engineering Management For The Rest Of Us
 
 My progress reading Engineering Management For The Rest Of Us by Sarah Drasner.
 
